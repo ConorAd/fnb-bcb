@@ -19,3 +19,10 @@ params:
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/foodnotbombsbelfast/"
+
+menus:
+  main:
+    - identifier: "About"
+      name: "about"
+      url: "/about/"
+      weight: 10
