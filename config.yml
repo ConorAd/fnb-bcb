@@ -9,3 +9,13 @@ params:
     subtitle: "make food not war"
     imageUrl: /img/fnb.svg
     imageTitle: "fnb"
+    imageWidth: 150
+    imageHeight: 150
+
+    buttons:
+    - name: "get in touch"
+      url: "mailto:info@foodnotbombsbelfast.com"
+
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/foodnotbombsbelfast/"
