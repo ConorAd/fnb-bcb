@@ -1,3 +1,11 @@
-baseURL: http://example.org/
+baseURL: https://foodnotbombs.com/
 languageCode: en-us
-title: My New Hugo Site
+title: Bia Chan Buamaí | Food Not Bombs
+theme: "PaperMod"
+
+params:
+  profileMode:
+    enabled: true
+    subtitle: "make food not war"
+    imageUrl: /img/fnb.svg
+    imageTitle: "fnb"
