@@ -10,10 +10,10 @@ params:
   profileMode:
     enabled: true
     subtitle: "make food not war"
-    imageUrl: /img/fnbsmall.png
+    imageUrl: /img/fnb.svg
     imageTitle: "fnb"
-    imageWidth: 150
-    imageHeight: 150
+    imageWidth: 200
+    imageHeight: 200
 
     buttons:
     - name: "get in touch"
