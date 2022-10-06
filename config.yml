@@ -10,7 +10,7 @@ params:
   profileMode:
     enabled: true
     subtitle: "make food not war"
-    imageUrl: /img/fnb.svg
+    imageUrl: /img/fnb-BCB.svg
     imageTitle: "fnb"
     imageWidth: 200
     imageHeight: 200
