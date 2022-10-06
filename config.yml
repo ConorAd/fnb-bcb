@@ -4,10 +4,13 @@ title: Bia Chan Buamaí | Food Not Bombs
 theme: "PaperMod"
 
 params:
+  defaultTheme: light
+  disableThemeToggle: true
+
   profileMode:
     enabled: true
     subtitle: "make food not war"
-    imageUrl: /img/fnb.svg
+    imageUrl: /img/fnbsmall.png
     imageTitle: "fnb"
     imageWidth: 150
     imageHeight: 150
