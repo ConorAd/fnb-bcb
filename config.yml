@@ -18,6 +18,8 @@ params:
     buttons:
     - name: "get in touch"
       url: "mailto:info@foodnotbombsbelfast.com"
+    - name: "support us"
+      url: "https://www.buymeacoffee.com/FNBBelfast"
 
   socialIcons:
     - name: instagram
