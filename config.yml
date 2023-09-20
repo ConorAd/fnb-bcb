@@ -31,3 +31,7 @@ menus:
       name: "about"
       url: "/about/"
       weight: 10
+    - identifier: "Unions"
+      name: "unions"
+      url: "/unions/"
+      weight: 20
