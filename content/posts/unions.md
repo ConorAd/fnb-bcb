@@ -16,8 +16,8 @@ We do this as solidarity not charity. Both individual strikers and their unions 
 
 If you are interested in joining a trade union, we recommend finding out if there is a union already in your workplace. If so, why not consider joining the same union as your colleagues and organising together.
 
-Members of Food not Bombs Belfast are active in independent trade unions like [the Industrial Workers of the World](https://onebigunion.ie) and [the Independent Workers Union](https://www.union.ie/) that organise all workers in all sectors.
+Members of Food not Bombs Belfast are active in independent trade unions like [the Industrial Workers of the World](https://onebigunion.ie) and [the Independent Workers Union](https://www.union.ie/) that organise all workers in every sector.
 
-The Irish Congress of Trade Unions has a handy [Join a unioin](https://ictu.ie/join-union) page that can help you find a union for your workplace or for a specific line of work.
+The Irish Congress of Trade Unions has a handy [Join a Union](https://ictu.ie/join-union) page that can help you find a union for your workplace or for a specific line of work.
 
 Additionally, many members of Food not Bombs are active in the tenants union [CATU](https://catuireland.org) that organises private tenants, social tenants, and mortgage holders to face the housing crisis head on.
